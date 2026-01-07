@@ -23,11 +23,3 @@ VALUES
 ('HR'),
 ('Finance'),
 ('Marketing');
-INSERT INTO Employees (FullName, Age, Salary, DepartmentId)
-VALUES
-('Ali Mammadov', 25, 1200, 1),
-('Nigar Aliyeva', 30, 1501, 1),
-('Elvin Hasanov', 28, 1000, 2),
-('Aysel Karimova', 35, 1800, 3),
-('Murad Quliyev', 22, 900, 4);
-
