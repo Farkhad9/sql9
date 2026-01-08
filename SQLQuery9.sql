@@ -22,4 +22,4 @@ VALUES
 ('IT'),
 ('HR'),
 ('Finance'),
-('Marketing');
+
