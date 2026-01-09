@@ -21,5 +21,4 @@ INSERT INTO Departments (Name)
 VALUES 
 ('IT'),
 ('HR'),
-('Finance'),
 
