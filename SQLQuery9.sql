@@ -20,5 +20,5 @@ CREATE TABLE Employees
 INSERT INTO Departments (Name)
 VALUES 
 ('IT'),
-('HR'),
+(' HR'),
 
